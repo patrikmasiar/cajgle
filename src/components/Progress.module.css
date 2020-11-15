@@ -1,0 +1,45 @@
+.wrapper {
+  position: relative;
+  height: 100px;
+}
+
+.progressWrapper {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+.startFlag {
+  height: 80px;
+  width: 20px;
+  background-image: url(../images//bigben.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  position: absolute;
+  top: 0;
+  right: -5px;
+}
+
+.bicycle {
+  height: 53px;
+  width: 53px;
+  position: absolute;
+  background-image: url('https://cdn.pixabay.com/photo/2017/01/31/14/44/bicycle-2024675_640.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  top: 32px;
+  left: 75%;
+  transform: translateX(-75%);
+}
+
+.target {
+  height: 55px;
+  width: 55px;
+  position: absolute;
+  background-image: url('https://image.flaticon.com/icons/png/512/2414/2414607.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  top: 25px;
+  left: -5px;
+}
