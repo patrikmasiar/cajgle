@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "https://cajgle.juffalow.com/static/css/main.1d949b2d.chunk.css",
+    "main.js": "https://cajgle.juffalow.com/static/js/main.26c50904.chunk.js",
+    "main.js.map": "https://cajgle.juffalow.com/static/js/main.26c50904.chunk.js.map",
+    "runtime-main.js": "https://cajgle.juffalow.com/static/js/runtime-main.832853e1.js",
+    "runtime-main.js.map": "https://cajgle.juffalow.com/static/js/runtime-main.832853e1.js.map",
+    "static/css/2.ff98cfd8.chunk.css": "https://cajgle.juffalow.com/static/css/2.ff98cfd8.chunk.css",
+    "static/js/2.7846094a.chunk.js": "https://cajgle.juffalow.com/static/js/2.7846094a.chunk.js",
+    "static/js/2.7846094a.chunk.js.map": "https://cajgle.juffalow.com/static/js/2.7846094a.chunk.js.map",
+    "static/js/3.be1a2ef6.chunk.js": "https://cajgle.juffalow.com/static/js/3.be1a2ef6.chunk.js",
+    "static/js/3.be1a2ef6.chunk.js.map": "https://cajgle.juffalow.com/static/js/3.be1a2ef6.chunk.js.map",
+    "index.html": "https://cajgle.juffalow.com/index.html",
+    "static/css/2.ff98cfd8.chunk.css.map": "https://cajgle.juffalow.com/static/css/2.ff98cfd8.chunk.css.map",
+    "static/css/main.1d949b2d.chunk.css.map": "https://cajgle.juffalow.com/static/css/main.1d949b2d.chunk.css.map",
+    "static/js/2.7846094a.chunk.js.LICENSE.txt": "https://cajgle.juffalow.com/static/js/2.7846094a.chunk.js.LICENSE.txt",
+    "static/media/Progress.module.css": "https://cajgle.juffalow.com/static/media/bigben.61d02754.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.832853e1.js",
+    "static/css/2.ff98cfd8.chunk.css",
+    "static/js/2.7846094a.chunk.js",
+    "static/css/main.1d949b2d.chunk.css",
+    "static/js/main.26c50904.chunk.js"
+  ]
+}
