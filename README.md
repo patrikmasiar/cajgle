@@ -7,7 +7,7 @@ Cajle is project that was born during Bratislava Climathon 2020.
  
 ### Application
 <p align="center">
-  <img src="https://github.com/massoprod/cajgle/blob/master/src/images/final.jpg?raw=true">
+  <img width="200" src="https://github.com/massoprod/cajgle/blob/master/src/images/final.jpg?raw=true">
 </p>
 
 ## Team
